@@ -1,0 +1,13 @@
+C:\Users\Samir\source\repos\PongPong\PongPongUI\bin\Debug\netcoreapp3.1\PongPongUI.exe
+C:\Users\Samir\source\repos\PongPong\PongPongUI\bin\Debug\netcoreapp3.1\PongPongUI.deps.json
+C:\Users\Samir\source\repos\PongPong\PongPongUI\bin\Debug\netcoreapp3.1\PongPongUI.runtimeconfig.json
+C:\Users\Samir\source\repos\PongPong\PongPongUI\bin\Debug\netcoreapp3.1\PongPongUI.runtimeconfig.dev.json
+C:\Users\Samir\source\repos\PongPong\PongPongUI\bin\Debug\netcoreapp3.1\PongPongUI.dll
+C:\Users\Samir\source\repos\PongPong\PongPongUI\bin\Debug\netcoreapp3.1\PongPongUI.pdb
+C:\Users\Samir\source\repos\PongPong\PongPongUI\obj\Debug\netcoreapp3.1\PongPongUI.csprojAssemblyReference.cache
+C:\Users\Samir\source\repos\PongPong\PongPongUI\obj\Debug\netcoreapp3.1\PongPongUI.AssemblyInfoInputs.cache
+C:\Users\Samir\source\repos\PongPong\PongPongUI\obj\Debug\netcoreapp3.1\PongPongUI.AssemblyInfo.cs
+C:\Users\Samir\source\repos\PongPong\PongPongUI\obj\Debug\netcoreapp3.1\PongPongUI.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\PongPong\PongPongUI\obj\Debug\netcoreapp3.1\PongPongUI.dll
+C:\Users\Samir\source\repos\PongPong\PongPongUI\obj\Debug\netcoreapp3.1\PongPongUI.pdb
+C:\Users\Samir\source\repos\PongPong\PongPongUI\obj\Debug\netcoreapp3.1\PongPongUI.genruntimeconfig.cache
